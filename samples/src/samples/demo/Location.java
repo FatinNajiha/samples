@@ -2,15 +2,15 @@ package samples.demo;
 
 public class Location {
 
-	private String x;
+	private String name;
 	private int locationId;
 	
 	
-	public String getX() {
-		return this.x;
+	public String getName() {
+		return name;
 	}
 	
-	public void setX(String name) {
-		this.x = name;
+	public void setName(String name) {
+		this.name = name;
 	}
 }
