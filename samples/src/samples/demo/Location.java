@@ -4,7 +4,7 @@ public class Location {
 
 	private String x;
 	private int locationId;
-	private int description;
+	
 	
 	public String getX() {
 		return this.x;
